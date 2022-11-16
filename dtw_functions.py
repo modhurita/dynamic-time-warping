@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Functions for pre-processing lithological data,followed by clustering using Dynamic Time Warping algorithm.
+Functions for pre-processing lithological data, followed by clustering using Dynamic Time Warping algorithm.
 """
 
 import numpy as np
