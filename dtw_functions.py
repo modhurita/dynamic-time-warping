@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Functions for processing resistivity data using Self-Organizing Map.
+Functions for pre-processing lithological data,followed by clustering using Dynamic Time Warping algorithm.
 """
 
 import numpy as np
